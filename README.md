@@ -1,4 +1,4 @@
-# Simple Elastic SIEM Lab
+# Lab Example
 
 ## Objective
 
